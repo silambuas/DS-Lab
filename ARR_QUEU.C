@@ -34,7 +34,7 @@ insert()
  if(rear == MAX-1)
 	printf("\n Queue overflow ");
  else
- {
+ {d
   printf("\n Enter the element to insert in queue : ");
   scanf("%d",&add_item);
   rear = rear+1;
